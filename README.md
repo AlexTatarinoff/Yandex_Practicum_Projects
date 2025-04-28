@@ -1,13 +1,13 @@
 # Yandex_Practicum_Projects
 Study projects completed during my studies at Yandex Practicum "Data Science Specialist" course
 
-## List of finished projects
+## --IN PROGRESS-- List of finished projects
 
 | Project's name | Description | Used libs | 
 | :--------: | :------------| :---------------------- |
-| [Most frequent number (not algo)](most_frequent_number_not_algo) | bla blah| *pandas, numpy* |
-|  ||*pandas, numpy*|
-|  | |*pandas, numpy, scikit-learn*|
+|  | | *pandas, numpy, scikit-learn* |
+|  |  |
+|  |  | 
 |  |  |
 
 <br>
