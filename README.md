@@ -5,7 +5,7 @@ Study projects completed during my studies at Yandex Practicum "Data Science Spe
 
 | Project's name | Description | Used libs | 
 | :--------: | :------------| :---------------------- |
-| [Users activity prediction and analysis](project_06_users_activity_prediction_analysis) | Customer's activity prediction, segmentation and analysis of the selected group| *pandas, numpy, seaborn* |
+| [Users activity prediction and analysis](project_06_users_activity_prediction_analysis) | Customer's activity prediction, segmentation and analysis of the selected group| *pandas, numpy, seaborn, phik, shap* |
 |  ||*pandas, numpy*|
 |  | |*pandas, numpy, scikit-learn*|
 |  |  |
