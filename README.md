@@ -5,7 +5,7 @@ Study projects completed during my studies at Yandex Practicum "Data Science Spe
 
 | Project's name | Description | Used libs | 
 | :--------: | :------------| :---------------------- |
-| [Most frequent number (not algo)](most_frequent_number_not_algo) | bla blah| *pandas, numpy* |
+| [Users activity prediction and analysis](project_06_users_activity_prediction_analysis) | Customer's activity prediction, segmentation and analysis of the selected group| *pandas, numpy, seaborn* |
 |  ||*pandas, numpy*|
 |  | |*pandas, numpy, scikit-learn*|
 |  |  |
