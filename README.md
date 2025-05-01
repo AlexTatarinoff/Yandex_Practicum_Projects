@@ -8,9 +8,9 @@ Data-analysis and data-science projects, completed during my studies at Yandex P
 
 | Project's name | Description and themes covered| Main used libs :| 
 | :--------: | :------------| :---------------------- |
-| [Users activity prediction and analysis](project_06_users_activity_prediction_analysis) | Customer's activity prediction, segmentation and analysis of the selected group.<br> #pipelines #GridSearch #Shap-values| *pandas, scikit-learn, seaborn, phik, shap* |
 |  |||
-| [Linear models: cows and milk taste](project_05_cows_and_milk_taste) | We will solve a regression and classification tasks, predicting milk yield and taste of milk<br>#correlation_analysis #confusion_matrix #recall-precision_tradeoff #OneHotEncoder|*pandas, scikit-learn*|
+| [Users activity prediction and analysis](project_06_users_activity_prediction_analysis) | Customer's activity prediction, segmentation and analysis of the selected group.<br><b>#pipelines #GridSearch #Shap-values</b>| *pandas, scikit-learn, seaborn, phik, shap* |
+| [Linear models: cows and milk taste](project_05_cows_and_milk_taste) | We will solve a regression and classification tasks, predicting milk yield and taste of milk.<br><b>#correlation_analysis #confusion_matrix #recall-precision_tradeoff #OneHotEncoder</b>|*pandas, scikit-learn, matplotlib, seaborn*|
 |  |  |
 
 <br>
