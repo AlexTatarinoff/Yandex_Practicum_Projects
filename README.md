@@ -6,7 +6,7 @@ Data-analysis and data-science projects, completed during my studies at Yandex P
 
 ## List of some finished projects
 
-| Project's name | Description and topics covered| Main used libs :| 
+| Project's name | Description and topics covered| Main used libs | 
 | :--------: | :------------| :---------------------- |
 |  |||
 | [Users activity prediction and analysis](project_06_users_activity_prediction_analysis) | Customer's activity prediction, segmentation and analysis of the selected group.<br><b>#pipelines #GridSearch #Shap-values</b>| *pandas, scikit-learn, seaborn, phik, shap* |
